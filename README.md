@@ -7,7 +7,7 @@ Oracle 11 db hr database
 * Download XE 11 database -- http://www.oracle.com/technetwork/database/database-technologies/express-edition/overview/index.html
 * Learn to Use Oracle Database 11g Express Edition - Part 1  -- https://apex.oracle.com/pls/otn/f?p=44785:24:101998711145653:::24:P24_CONTENT_ID,P24_PROD_SECTION_GRP_ID,P24_PREV_PAGE:5813,,24
 * Other docs - http://docs.oracle.com/cd/E17781_01/index.htm
-* about xe 11g -- http://docs.oracle.com/cd/E17781_01/admin.112/e18585/toc.htm "about"
+* about xe 11g -- http://docs.oracle.com/cd/E17781_01/admin.112/e18585/toc.htm
  
 
 ##Installing the HR Schema
